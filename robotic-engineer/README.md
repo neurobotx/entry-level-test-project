@@ -11,7 +11,7 @@ Implement an object detectior or a segmentation deep learning algorithm which ca
 3. Predict, and show results
 4. Document code
 
-Useful links:
+## Useful links:
 
 1. [Annotation Best Practices for Object Detection](https://nanonets.github.io/tutorials-page/docs/annotate)
 
